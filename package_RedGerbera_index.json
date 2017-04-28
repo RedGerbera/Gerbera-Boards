@@ -27,6 +27,25 @@
                         }
                     ],
                     "toolsDependencies": []
+                },
+                {
+                    "name": "Gerbera Boards",
+                    "architecture": "avr",
+                    "version": "0.2.1",
+                    "category": "Gerbera",
+                    "url": "https://github.com/RedGerbera/Gerbera-Boards/raw/master/boards/RedGerbera-0.2.1.tar.bz2",
+                    "archiveFileName": "RedGerbera-0.2.1.tar.bz2",
+                    "checksum": "SHA-256:0E254B15254F8825B1D4CC6D6C90CF68CD04B71D934CBF13954C5F2642495A0B",
+                    "size": "625773",
+                    "help": {
+                        "online": "http://redgerbera.com/about/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Gerbera"
+                        }
+                    ],
+                    "toolsDependencies": []
                 }
             ],
             "tools": []
