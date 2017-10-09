@@ -90,9 +90,54 @@
                         }
                     ],
                     "toolsDependencies": []
+                },
+				{
+                    "name": "Gerbera Boards",
+                    "architecture": "avr",
+                    "version": "0.4.0",
+                    "category": "HexWear",
+                    "url": "https://github.com/RedGerbera/Gerbera-Boards/raw/master/boards/RedGerbera-0.4.0.tar.bz2",
+                    "archiveFileName": "RedGerbera-0.4.0.tar.bz2",
+                    "checksum": "SHA-256:2AB7D7A38E2AEFCB3416CBFC112FA51FF642728843A3698ECD07A0FF69484D71",
+                    "size": "650790",
+                    "help": {
+                        "online": "http://redgerbera.com/about/"
+                    },
+                    "boards": [
+                        {
+                          "name": "HexWear"
+                        },
+                        {
+                          "name": "mini-HexWear"
+                        }
+                    ],
+                    "toolsDependencies": []
+                },
+				{
+                    "name": "Gerbera Boards",
+                    "architecture": "avr",
+                    "version": "0.4.1",
+                    "category": "HexWear",
+                    "url": "https://github.com/RedGerbera/Gerbera-Boards/raw/master/boards/RedGerbera-0.4.1.tar.bz2",
+                    "archiveFileName": "RedGerbera-0.4.1.tar.bz2",
+                    "checksum": "SHA-256:EE314416C528141C25B10257638EE53627EE35FFF1FC44E4B9B8AA18AA6BE066",
+                    "size": "650817",
+                    "help": {
+                        "online": "http://redgerbera.com/about/"
+                    },
+                    "boards": [
+                        {
+                          "name": "HexWear"
+                        },
+                        {
+                          "name": "mini-HexWear"
+                        }
+                    ],
+                    "toolsDependencies": []
                 }
             ],
             "tools": []
 		}
 	]
 }
+
