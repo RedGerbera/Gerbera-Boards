@@ -156,6 +156,28 @@
                         }
                     ],
                     "toolsDependencies": []
+                },
+				{
+                    "name": "Gerbera Boards",
+                    "architecture": "avr",
+                    "version": "0.6.0",
+                    "category": "HexWear",
+                    "url": "https://github.com/RedGerbera/Gerbera-Boards/raw/master/boards/RedGerbera-0.6.0.tar.bz2",
+                    "archiveFileName": "RedGerbera-0.6.0.tar.bz2",
+                    "checksum": "SHA-256:E05A7EC411AEF671ED3C86E44FFCAD0CF88C66A8476F056FEA6A3043E7171EB0",
+                    "size": "651349",
+                    "help": {
+                        "online": "http://redgerbera.com/about/"
+                    },
+                    "boards": [
+                        {
+                          "name": "HexWear"
+                        },
+                        {
+                          "name": "mini-HexWear"
+                        }
+                    ],
+                    "toolsDependencies": []
                 }
             ],
             "tools": []
