@@ -3,10 +3,10 @@
         {
             "name": "Red Gerbera",
             "maintainer": "Red Gerbera",
-            "websiteURL": "http://redgerbera.com/",
-            "email": "info@RedGerbera.com",
+            "websiteURL": "https://redgerbera.com/",
+            "email": "contactredgerbera@gmail.com",
             "help": {
-                "online": "http://redgerbera.com/"
+                "online": "https://redgerbera.com/"
             },
             "platforms": [
 				{
@@ -19,7 +19,7 @@
                     "checksum": "SHA-256:4D400279625A30E706143FFF9323613B19DC1D1655FE3153636F3CEA55B55741",
                     "size": "651273",
                     "help": {
-                        "online": "http://redgerbera.com/about/"
+                        "online": "https://www.redgerbera.com/pages/tutorials"
                     },
                     "boards": [
                         {
